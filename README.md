@@ -34,7 +34,7 @@ ENCOURAGE
 We have dedicated marketing strategy that involves relevant stakeholders to the Narnia solution and Kanji objective. For instance, the team can Use Instagram & Tiktok to share tidbits of information on how students can promote sustainability everyday
 
 Narnia
-Narnia is an app that provides an experiential learning for user designed with gamification in mind. For instance, user of a department can compete with other departments within their organization in our leaderboard page to achieve the highest scoring.
+What Narnia is about, is it is an app that provides an experiential learning for user designed with gamification in mind. For instance, user of a department can compete with other departments within their organization in our leaderboard page to achieve the highest scoring. The goal is to offer a more unique user experience that not other apps are offering, like the SP Utilities App, Capture App, DBS LiveBetter, etc.
 
 
 # Narnia
